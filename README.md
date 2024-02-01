@@ -27,5 +27,3 @@
   
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inayshi&layout=donut)](https://github.com/Inayshi/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inayshi&show_icons=true)
