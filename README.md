@@ -1,6 +1,6 @@
 ### Haloooo! I'm Nic! 👋
 
-<h2> A fullstack developer from the Philippines and I love: <h3>
+<h2> I love: <h3>
 
 - 💻 Learning new programming languages and tools
 - 👥 Collaborating with other developers
